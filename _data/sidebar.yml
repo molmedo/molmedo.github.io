@@ -7,3 +7,9 @@ options:
         - title: page
           url: /docs/wwdc2019/page/
 
+        - title: Swift UI
+          url: /docs/wwdc2019/swift-ui/
+
+        - title: Accesibility
+          url: /docs/wwdc2019/accesibility/
+
